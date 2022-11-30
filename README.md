@@ -1,9 +1,9 @@
 samplego
 https://www.spinute.org/go-by-example/
 
---DONE--
 Hello World
 Values
+--DONE--
 Variables
 Constants
 For
